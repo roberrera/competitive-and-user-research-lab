@@ -28,12 +28,12 @@ Once you're in your teams, you're going to do competitive research and create a 
 For your competitive research:
 
 - Choose 5+ experiences or apps in your project’s industry or an adjacent industry, and analyze them
-- As a team, choose one of the two formats covered (feature inventory vs. + / Δ), and work together to create a competitive analysis for your final project topic:
+- As a team, choose one of the two formats covered (feature inventory vs. + / Δ), and work together to create a competitive analysis for your project topic:
 
   - If you choose choose feature inventory focus on this question: What features do they offer?
   - If you choose + / Δ, focus on these questions: What does each do well? What does each do poorly?
 
-After you're finished with your competitive research, for the remainder of the lab, you're going to come up with a research plan using the [Research Plan Worksheet](starter-assets/research-plan-worksheet.pdf). Write a short research plan for your final project that answers the following:
+After you're finished with your competitive research, for the remainder of the lab, you're going to come up with a research plan using the [Research Plan Worksheet](starter-assets/research-plan-worksheet.pdf). Write a short research plan for your project that answers the following:
 
   - What area(s) are you interested in researching?
   - What are your research goals? What are you trying to learn about your topic?
@@ -41,7 +41,7 @@ After you're finished with your competitive research, for the remainder of the l
 
 > Instructor note: Instructor should walk around the classroom to check in on people’s research plans.
 
-- Also, write a script for your final project topic that answers the following:
+- Also, write a script for your project topic that answers the following:
 
   - What can you ask about that will help you get at those research goals?
   - Write a list of topics you want to ask about. Then, write questions that correspond to each of those topics.
